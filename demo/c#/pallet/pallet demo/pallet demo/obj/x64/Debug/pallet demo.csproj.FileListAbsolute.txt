@@ -1,0 +1,38 @@
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe.config
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.pdb
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.DebugForm.resources
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Form1.resources
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Properties.Resources.resources
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csproj.GenerateResource.cache
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csproj.CopyComplete
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.exe
+C:\Users\m\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.pdb
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe.config
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.exe
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.pdb
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.pdb
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csprojResolveAssemblyReference.cache
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.DebugForm.resources
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Form1.resources
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Properties.Resources.resources
+C:\Users\慧灵科技\Desktop\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csproj.GenerateResource.Cache
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe.config
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.exe
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.pdb
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.exe
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\bin\x64\Debug\pallet demo.pdb
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.dll
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\bin\x64\Debug\Newtonsoft.Json.xml
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csprojResolveAssemblyReference.cache
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.DebugForm.resources
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Form1.resources
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet_demo.Properties.Resources.resources
+G:\机械臂资料\hitbotsnake历史版本\pallet\pallet demo\pallet demo\obj\x64\Debug\pallet demo.csproj.GenerateResource.Cache

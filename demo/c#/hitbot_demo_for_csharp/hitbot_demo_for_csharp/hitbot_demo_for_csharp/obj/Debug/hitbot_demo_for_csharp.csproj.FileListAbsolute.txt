@@ -1,0 +1,9 @@
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\bin\Debug\hitbot_demo_for_csharp.exe.config
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\bin\Debug\hitbot_demo_for_csharp.exe
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\bin\Debug\hitbot_demo_for_csharp.pdb
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.csprojResolveAssemblyReference.cache
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.Form1.resources
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.Properties.Resources.resources
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.csproj.GenerateResource.Cache
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.exe
+C:\Users\慧灵科技\Desktop\机械臂相关资料\20180103多机库1.0版本\demo\c#\hitbot_demo_for_csharp\hitbot_demo_for_csharp\hitbot_demo_for_csharp\obj\Debug\hitbot_demo_for_csharp.pdb
